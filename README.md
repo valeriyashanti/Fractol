@@ -1,7 +1,5 @@
 # Basic graphic projects
 - [Fractol](#id-section1)
-- [FdF](#id-section2)
-- [My marks](#id-section3)
 
 ## Fractol <div id='id-section1'/>
 ![intro](https://github.com/odnaks/settings/blob/master/screens/fractol%20intr.png)
@@ -39,8 +37,3 @@ right -/+     | zoom fractal (like scroll wheel, but without mouse:))
 
 <div id='id-section2'/>
 
-
-### my marks:
-| Fractol
-----------------|----------------------
-| ![mark fractol](https://github.com/odnaks/settings/blob/master/screens/mark%20fractol.png)
